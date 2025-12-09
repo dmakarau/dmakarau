@@ -1,61 +1,61 @@
-# Hello World! 👋
+# 🚀 Denis Makarau
 
-I'm **Denis Makarau**, a passionate iOS developer focused on building elegant, user-friendly applications using Swift and modern technologies. I'm committed to solving complex problems through clean code, best practices, and innovative thinking.
+**iOS Developer | Swift Enthusiast | Building Intelligent Mobile Experiences**
 
-## 📱 What I Do
-
-• 🧑‍💻 Developing **iOS applications** with Swift and SwiftUI  
-• 📚 Continuously learning and mastering new frameworks and development patterns  
-• 💡 Passionate about **AI-integrated applications** and exceptional user experience design  
-• 🤝 Enthusiastic about collaborating with talented teams and contributing to impactful projects
-
-## 🛠️ Tech Stack
-
-**Mobile Development:**
-- Swift
-- SwiftUI
-- UIKit
-- Xcode
-
-**Languages:**
-- Swift (Primary)
-- Python
-
-**Tools & Technologies:**
-- Git & GitHub
-- REST APIs
-- Firebase
-- Figma (Design collaboration)
-- iOS SDK
-
-## 🌟 Featured Projects
-
-- **[AISocialChat](https://github.com/dmakarau/AISocialChat)** - An AI-powered social media application built with SwiftUI featuring chat functionality, feed system, and intelligent post composition
-- More projects in development!
-
-## 💼 Professional Interests
-
-- iOS Application Development
-- SwiftUI & Modern Swift Architecture
-- User-Centric Design
-- AI/ML Integration in Mobile Apps
-- Code Quality & Best Practices
-
-## 📈 Professional Goals
-
-- Build production-grade iOS applications
-- Deepen expertise in Swift and iOS architecture patterns
-- Contribute to open-source projects
-- Create solutions that deliver real value and improve user experiences
-
-## 🎯 Let's Connect!
-
-- 💬 Interested in discussing iOS development opportunities
-- 🤝 Open to collaboration and learning from experienced teams
-- 📧 Feel free to reach out
-
-**Let's build something great together! 🚀**
+I craft elegant, user-centric iOS applications that solve real problems. Currently exploring the intersection of AI and mobile development to create next-generation user experiences.
 
 ---
 
-*Based in Germany | iOS Developer | Lifelong Learner*
+## 💫 What I'm Currently Working On
+
+- Building AI-integrated iOS applications with SwiftUI
+- Mastering modern Swift architecture patterns
+- Creating delightful user experiences through thoughtful design
+- Contributing to the iOS developer community
+
+---
+
+## 🧠 Tech & Tools
+
+```
+Swift · SwiftUI · UIKit · Xcode
+Firebase · REST APIs · Git · Python · Figma
+```
+
+---
+
+## 📚 Featured Work
+
+**[AISocialChat](https://github.com/dmakarau/AISocialChat)** - AI-powered social media app  
+A full-featured social platform built with SwiftUI featuring real-time chat, intelligent post composition, and feed management.
+
+---
+
+## 🎯 I'm Interested In
+
+- iOS Application Architecture
+- AI/ML Integration in Mobile Apps
+- User Experience & Design Systems
+- Open Source Contributions
+- Mentoring & Knowledge Sharing
+
+---
+
+## 🌱 Always Growing
+
+Currently deepening expertise in:
+- Advanced Swift patterns & best practices
+- SwiftUI performance optimization
+- Mobile app scaling & architecture
+
+---
+
+## 📫 Get In Touch
+
+Open to discussing iOS development opportunities, interesting projects, or just tech talk!
+
+**💌 Email · 🔗 [LinkedIn](https://www.linkedin.com/in/denis-makarau-52064ba7/) · 💻 GitHub**
+
+---
+
+*Based in Germany | Passionate about clean code & great design*
