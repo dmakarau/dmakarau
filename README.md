@@ -1,61 +1,21 @@
-# 🚀 Denis Makarau
+# Hey there! 👋 I'm Denis
 
-**iOS Developer | Swift Enthusiast | Building Intelligent Mobile Experiences**
+iOS developer passionate about building elegant, scalable mobile applications. I love working with Swift, solving complex architectural challenges, and crafting great user experiences.
 
-I craft elegant, user-centric iOS applications that solve real problems. Currently exploring the intersection of AI and mobile development to create next-generation user experiences.
-
----
-
-## 💫 What I'm Currently Working On
-
-- Building AI-integrated iOS applications with SwiftUI
-- Mastering modern Swift architecture patterns
-- Creating delightful user experiences through thoughtful design
-- Contributing to the iOS developer community
+Currently working on mobile SDKs at Zendesk, but I'm always interested in learning new things and collaborating on interesting projects.
 
 ---
 
-## 🧠 Tech & Tools
+## What I work with
 
-```
-Swift · SwiftUI · UIKit · Xcode
-Firebase · REST APIs · Git · Python · Figma
-```
+Swift · SwiftUI · UIKit · Xcode · Firebase · AWS
 
 ---
 
-## 📚 Featured Work
+## Let's talk
 
-**[AISocialChat](https://github.com/dmakarau/AISocialChat)** - AI-powered social media app  
-A full-featured social platform built with SwiftUI featuring real-time chat, intelligent post composition, and feed management.
-
----
-
-## 🎯 I'm Interested In
-
-- iOS Application Architecture
-- AI/ML Integration in Mobile Apps
-- User Experience & Design Systems
-- Open Source Contributions
-- Mentoring & Knowledge Sharing
+[LinkedIn](https://www.linkedin.com/in/denis-makarau-52064ba7/) · [Email](mailto:denis.makarow@gmail.com)
 
 ---
 
-## 🌱 Always Growing
-
-Currently deepening expertise in:
-- Advanced Swift patterns & best practices
-- SwiftUI performance optimization
-- Mobile app scaling & architecture
-
----
-
-## 📫 Get In Touch
-
-Open to discussing iOS development opportunities, interesting projects, or just tech talk!
-
-**💌 Email · 🔗 [LinkedIn](https://www.linkedin.com/in/denis-makarau-52064ba7/) · 💻 GitHub**
-
----
-
-*Based in Germany | Passionate about clean code & great design*
+*Based in Munich, Germany*
