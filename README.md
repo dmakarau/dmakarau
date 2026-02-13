@@ -1,4 +1,4 @@
-## Hey there! 👋 I'm Denis
+## Hey there! 👋 I'm Denis Makarau
 
 iOS developer passionate about building elegant, scalable mobile applications. I love working with Swift, solving complex architectural challenges, and crafting great user experiences.
 
