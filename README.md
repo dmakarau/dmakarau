@@ -11,6 +11,6 @@ Currently working on mobile SDKs at Zendesk, but I'm always interested in learni
 
 *Based in Munich, Germany*
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dmakarau&layout=compact&theme=dark)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dmakarau&layout=compact&theme=dark)](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dmakarau&theme=dark)
 
 [![Streak](https://streak-stats.demolab.com?user=dmakarau&theme=dark)](https://ghchart.rshah.org/dmakarau)
