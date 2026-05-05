@@ -6,11 +6,9 @@ Currently exploring on-device AI with Apple FoundationModels and MCP.
 
 * 🛠️ I work with: Swift · SwiftUI · UIKit · Go · Flutter · Dart
 * 📍 Munich, Germany
-* 💼 [LinkedIn](https://www.linkedin.com/in/denis-makarau-52064ba7/) · [Email](mailto:denis.makarow@gmail.com)
+* 📧 [LinkedIn](https://www.linkedin.com/in/denis-makarau-52064ba7/) · [Email](mailto:denis.makarow@gmail.com)
 
 ---
-
-*Based in Munich, Germany*
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dmakarau&theme=dark" width="100%"/>
