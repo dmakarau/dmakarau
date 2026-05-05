@@ -12,6 +12,7 @@ Currently working on mobile SDKs at Zendesk, but I'm always interested in learni
 *Based in Munich, Germany*
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dmakarau&theme=dark" width="100%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dmakarau&theme=dark" height="150"/>
   <img src="https://streak-stats.demolab.com?user=dmakarau&theme=dark" height="150"/>
 </div>
