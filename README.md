@@ -11,4 +11,4 @@ Currently working on mobile SDKs at Zendesk, but I'm always interested in learni
 
 *Based in Munich, Germany*
 
-![Streak](https://streak-stats.demolab.com?user=dmakarau&theme=dark)
+[![Streak](https://streak-stats.demolab.com?user=dmakarau&theme=dark)](https://ghchart.rshah.org/dmakarau)
