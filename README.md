@@ -1,11 +1,12 @@
 ## Hey there! 👋 I'm Denis Makarau
 
-iOS developer passionate about building elegant, scalable mobile applications. I love working with Swift, solving complex architectural challenges, and crafting great user experiences.
+Senior iOS Engineer at Zendesk building mobile SDKs used by thousands 
+of integrators. Focused on Swift, SwiftUI, and developer experience.
+Currently exploring on-device AI with Apple FoundationModels and MCP.
 
-Currently working on mobile SDKs at Zendesk, but I'm always interested in learning new things and collaborating on interesting projects.
-
-- 🛠️ I work with: Swift · SwiftUI · UIKit · Xcode · Firebase · AWS · Flutter · Dart · Golang
-- 📧 [LinkedIn](https://www.linkedin.com/in/denis-makarau-52064ba7/) · [Email](mailto:denis.makarow@gmail.com)
+* 🛠️ I work with: Swift · SwiftUI · UIKit · Go · Flutter · Dart
+* 📍 Munich, Germany
+* 💼 [LinkedIn](https://www.linkedin.com/in/denis-makarau-52064ba7/) · [Email](mailto:denis.makarow@gmail.com)
 
 ---
 
