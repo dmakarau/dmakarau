@@ -16,6 +16,6 @@ Currently working on mobile SDKs at Zendesk, but I'm always interested in learni
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-0175C2?style=for-the-badge&logo=flutter&logoColor=white)
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dmakarau&layout=compact&theme=dark)](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dmakarau&theme=dark)
+[![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dmakarau&theme=dark)](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dmakarau&theme=dark)
 
 [![Streak](https://streak-stats.demolab.com?user=dmakarau&theme=dark)](https://ghchart.rshah.org/dmakarau)
